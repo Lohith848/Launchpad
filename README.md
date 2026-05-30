@@ -6,7 +6,7 @@ Tactile, high-precision desktop control panel and launcher for personal tools, b
 
 ## Key Features
 
-- ⌨️ **Tactile Keycap Design**: A tactile layout featuring responsive active keycap depths, mechanical-click states, and vintage noise textures.
+- **Tactile Keycap Design**: A tactile layout featuring responsive active keycap depths, mechanical-click states, and vintage noise textures.
 - **Light Mode by Default**: Refined to initialize in a gorgeous cream-colored Light Mode with high contrast.
 - **Improved Dark Mode Contrast**: Upgraded theme color tokens to ensure all clock sub-elements, status counters, placeholders, and keyboard hints are clear, readable, and perfectly balanced.
 - **Nine Color-Themed Categories**:
