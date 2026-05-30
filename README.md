@@ -7,9 +7,9 @@ Tactile, high-precision desktop control panel and launcher for personal tools, b
 ## Key Features
 
 - ⌨️ **Tactile Keycap Design**: A tactile layout featuring responsive active keycap depths, mechanical-click states, and vintage noise textures.
-- ☀️ **Light Mode by Default**: Refined to initialize in a gorgeous cream-colored Light Mode with high contrast.
-- 🌙 **Improved Dark Mode Contrast**: Upgraded theme color tokens to ensure all clock sub-elements, status counters, placeholders, and keyboard hints are clear, readable, and perfectly balanced.
-- 🎯 **Nine Color-Themed Categories**:
+- **Light Mode by Default**: Refined to initialize in a gorgeous cream-colored Light Mode with high contrast.
+- **Improved Dark Mode Contrast**: Upgraded theme color tokens to ensure all clock sub-elements, status counters, placeholders, and keyboard hints are clear, readable, and perfectly balanced.
+- **Nine Color-Themed Categories**:
   - **Dev Tools** (Green Theme)
   - **AI Assistants** (Purple Theme)
   - **Finance** (Amber Theme)
@@ -19,13 +19,13 @@ Tactile, high-precision desktop control panel and launcher for personal tools, b
   - **Games** (Retro Red/Orange Theme) — *NEW*
   - **Design inspo** (Teal/Cyan Theme) — *NEW*
   - **random** (Magenta Theme) — *NEW*
-- 🔄 **State Persistence & Auto-Merge**: Safely hydrates from `localStorage` while dynamically merging any new system-default categories without breaking existing configurations.
-- ⚡ **Tactical Keyboard Shortcuts**:
+- **State Persistence & Auto-Merge**: Safely hydrates from `localStorage` while dynamically merging any new system-default categories without breaking existing configurations.
+- **Tactical Keyboard Shortcuts**:
   - `Alt+N` or `Ctrl+N` — Register a new application shortcut
   - `Alt+E` or `Ctrl+E` — Toggle launcher edit/rearrange mode
   - `/` — Focus the search console input
   - `ESC` — Clear search query or exit modal/edit mode
-- 🎛️ **Tactile Actions**:
+- **Tactile Actions**:
   - **Drag-and-Drop**: Easily rearrange application positions within or across views using a native grid layout powered by `@dnd-kit`.
   - **Backup Sync**: Sync and export/import your configuration settings seamlessly as a structured `.json` file.
   - **Favorites Strip**: Highlight pinned shortcuts to reside permanently in the prominent top strip.
@@ -76,5 +76,9 @@ To construct an optimized, statically prerendered production bundle:
 ```bash
 pnpm build
 ```
+
+---
+
+Lohith was bored !!
 
 The server outputs verified production build pages ready for server-side hosting or direct static PWA hosting.
