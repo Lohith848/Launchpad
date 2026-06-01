@@ -77,8 +77,7 @@ To construct an optimized, statically prerendered production bundle:
 pnpm build
 ```
 
+
 ---
 
 Lohith was bored !!
-
-The server outputs verified production build pages ready for server-side hosting or direct static PWA hosting.
